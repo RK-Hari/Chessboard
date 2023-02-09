@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+.Box{
+    height:800px;
+    width:800px;
+}
+.row{
+    height:100px;
+    width:100%;
+}
+.black{
+    height:100px;
+    width:100px;
+    float: left;
+    background-color: black;
+}
+.white{
+    height:100px;
+    width:100px;
+    float: left;
+    background-color: white;
+}
